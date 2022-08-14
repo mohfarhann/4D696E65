@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin:  0;
+}
+
+body{
+	background-color: #150F35;
+}
+
+.bodycount{
+	margin-top:  200px;
+	padding:  60px;
+	width: 100%;
+	height:  200px;
+	font-family: 'Orbitron', sans-serif;
+	color:  white;
+	font-size: 20px;
+	margin-bottom : 30px;
+}
+
+.astro{
+	postion:  absolute;
+	width:  100%;
+	height:  100%;
+}
